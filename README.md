@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moddedtechnic&label=Profile%20views&color=000000&style=flat" alt="moddedtechnic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moddedtechnic" alt="moddedtechnic" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moddedtechnic&theme=onestar" alt="moddedtechnic" /></a> </p>
 
 - I’m currently working on [LUCompSoc](compsoc.io)
 
