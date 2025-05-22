@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moddedtechnic&theme=onestar" alt="moddedtechnic" /></a> </p>
 
-- I’m currently working on [LUCompSoc](compsoc.io)
+- I’m currently working on [LUHack](https://luhack.uk)
 
 - 👨‍💻 All of my projects are available at [https://github.com/moddedTechnic](https://github.com/moddedTechnic)
 
